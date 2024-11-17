@@ -8,6 +8,7 @@ B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 
 
 C- ¿Qué color de fondo tiene su página en el MASTER?
-
+Tiene ambos, lo cual esta mal porque al mergear no se soluciono bien la disputa
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Usamos la misma imagen, asi que no tenemos forma de saber la de cual es (lo sentimos)
