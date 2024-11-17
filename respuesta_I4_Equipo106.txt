@@ -13,14 +13,19 @@ Tiene ambos, lo cual esta mal porque al mergear no se soluciono bien la disputa
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 Usamos la misma imagen, asi que no tenemos forma de saber la de cual es (lo sentimos)
 
-Pregunta:
 E- ¿Algún integrante tuvo problemas al hacer el push?
 Beta tuvo que hacer un pull, por pedido de github, y Gamma probo usando un push -f
+
 F- ¿Qué problemas surgieron?
 Lo respondido arriba, ademas deq que al usar force push se borro lo escrito por alfa y beta
+
 G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
 adoptada?
-hacer un pull, o hacer un force push. El primero requiere preparacion previa, el segundo sobreescribe sin considerar mergear
+Hacer un pull, o hacer un force push. El primero requiere preparacion previa, el segundo sobreescribe sin considerar mergear
+
 H- ¿Qué sucede si cada uno utiliza el push -f?
+Fueza el push y se van a terminar sobreescribiendo, borrando lo que hizo el push anterior
+
 I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
 en DESARROLLO ?
+Se debe hacer pull antes de cada push, asi no habra problemas de superposicion
