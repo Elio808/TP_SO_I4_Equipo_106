@@ -2,10 +2,10 @@ Elio Yilali
 Diego Fernandez Caldas
 
 A- ¿Qué color de fondo tiene su página en el TESTING ?
-Tiene el color verde (green).
+Tiene el color blue.
 
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
-
+Tiene el color Amarillo
 
 C- ¿Qué color de fondo tiene su página en el MASTER?
 Tiene ambos, lo cual esta mal porque al mergear no se soluciono bien la disputa
